@@ -182,3 +182,4 @@ const CFG = {
 - Rekordliste mit Namen statt nur einem Bestwert
 - Eigene Würfel-Augen als Grafik (Sprite statt gezeichneter Pips)
 - Bildschirm-Buttons für Mobilgeräte
+- Pilze als Trampoline
